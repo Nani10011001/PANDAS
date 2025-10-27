@@ -4,7 +4,7 @@ dataframe=pd.DataFrame({
     "age":[30,32,29],
     "location":["chittoor","greamspets","santhapet"]
 })
-meanData=dataframe.groupby("name").agg({ # by using the manual data
+meanData=dataframe.groupby("name").agg({ # by using the manual data its help us to perform the operation on the dataframe age
     "age":"median"
 })
 """ print(meanData) """
