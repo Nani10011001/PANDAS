@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Learning%20%F0%9F%93%9A-green?style=plastic)
  🐼 Pandas Learning Repository
 
 This repository contains my hands-on practice and learning of the **Pandas library in Python**.
